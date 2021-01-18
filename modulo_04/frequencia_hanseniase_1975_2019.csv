@@ -1,8 +1,8 @@
- Acompanhamento dos dados de Hanseníase - BRASIL
-Frequência por Ano Diagnóstico e Mes Diagnóstico
-Período:2001-2019
-"Ano Diagnóstico";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
-"<1975";28;8;12;14;14;17;17;14;12;23;21;21;201
+ Acompanhamento dos dados de HansenÃ­ase - BRASIL
+FrequÃªncia por Ano DiagnÃ³stico e Mes DiagnÃ³stico
+PerÃ­odo:2001-2019
+"Ano DiagnÃ³stico";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"1975";28;8;12;14;14;17;17;14;12;23;21;21;201
 "1975";-;1;-;-;-;-;-;-;-;-;-;1;2
 "1976";-;-;-;2;1;2;-;-;2;-;1;-;8
 "1977";2;-;-;1;-;-;-;-;-;1;1;-;5
@@ -49,13 +49,13 @@ Período:2001-2019
 "2018";2971;2877;3276;3157;3237;2913;2976;3644;3274;3423;2909;2268;36925
 "2019";3105;3319;2804;3037;3047;2567;2856;3107;3060;3137;2715;1886;34640
 "Total";65734;70144;77916;70551;74584;68070;69769;79665;72905;74193;69505;56957;849993
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Fonte: MinistÃ©rio da SaÃºde/SVS - Sistema de InformaÃ§Ã£o de Agravos de NotificaÃ§Ã£o - Sinan Net
  Notas:
  
- Excluídos casos não residentes no Brasil.
- Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
- Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
- Os bancos de dados de 2001 a 2019 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
- As bases de dados de 2017 a 2019 ainda podem receber atualizações na notificação de casos.
+ ExcluÃ­dos casos nÃ£o residentes no Brasil.
+ PerÃ­odos DisponÃ­veis ou perÃ­odo - Correspondem aos anos de notificaÃ§Ã£o dos casos.
+ Para tabular os dados de hansenÃ­ase pode ser acessado o Caderno de AnÃ¡lise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
+ Os bancos de dados de 2001 a 2019 sÃ£o bancos brutos, nÃ£o receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponÃ­veis podem apresentar diferenÃ§as em relaÃ§Ã£o aos boletins epidemiolÃ³gicos e outras publicaÃ§Ãµes de hansenÃ­ase.
+ As bases de dados de 2017 a 2019 ainda podem receber atualizaÃ§Ãµes na notificaÃ§Ã£o de casos.
  *Dados disponibilizados no TABNET em 10/2020
  
