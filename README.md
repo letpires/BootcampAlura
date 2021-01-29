@@ -8,5 +8,5 @@ Este projeto faz parte da comunidade da Alura, no qual imergimos em Ciência de 
 <h3> Módulo 01:  Python e pandas para análise de dados reais </h3> 
 Neste módulo vamos utilizar Python e Pandas para explorar os dados da distribuição de verba da saúde. Os desafios se iniciam da leitura dos dados com pandas até a aquisição de fontes de dados externas para enriquecer suas anáilises, simulando os desafios diários de um cientista de dados. 
 
-Projeto: Explorando dados financeiros do SUS.<br>
-Ferramentas: Python, Pandas, Matplotlib e Numpy.
+<b>Projeto:</b> Explorando dados financeiros do SUS.<br>
+<b>Ferramentas:</b> Python, Pandas, Matplotlib e Numpy.
