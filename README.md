@@ -1,2 +1,1 @@
-# Bootcamp de Data Science Aplicado
-Atividades realizadas no Bootcamp da Alura
+![](https://github.com/letpires/bootcamp_alura/blob/main/bootcamp.png)
