@@ -42,3 +42,10 @@ Nossa proposta no curso anterior foi utilizar Machine Learning, como solução. 
 <b>Ferramentas:</b> Python, Pandas, Seaborn, Matplotlib, Numpy e Scikit-learn.
 
 
+---
+
+## 🛠 Tecnologias
+
+As análises foram desenvolvidos na linguagem Python, utilizando o Google colaboratory e bibliotecas como numpy, seaborn e matplotlib.
+
+---
